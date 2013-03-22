@@ -30,7 +30,7 @@
 #include "sdk.sp"
 
 public Plugin:myinfo = {
-    name        = "PVKII Admin Mode",
+    name        = "PVKII Admin Mod",
     author      = "MadKat",
     description = "Add helpful commands for server operators",
     version     = PL_VERSION,
